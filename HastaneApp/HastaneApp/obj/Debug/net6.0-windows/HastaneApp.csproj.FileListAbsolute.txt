@@ -1,0 +1,152 @@
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\HastaneApp.exe
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\HastaneApp.deps.json
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\HastaneApp.runtimeconfig.json
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\HastaneApp.dll
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\HastaneApp.pdb
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.csproj.AssemblyReference.cache
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.Properties.Resources.resources
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.csproj.GenerateResource.cache
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.AssemblyInfoInputs.cache
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.AssemblyInfo.cs
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.csproj.CoreCompileInputs.cache
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.dll
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\refint\HastaneApp.dll
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.pdb
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.genruntimeconfig.cache
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\ref\HastaneApp.dll
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmBilgiDuzenle.resources
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmBrans.resources
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmDoktorBilgiDuzenle.resources
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmDoktorDetay.resources
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmDoktorGiris.resources
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmDoktorPaneli.resources
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmDuyurular.resources
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmGirisler.resources
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmHastaDetay.resources
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmHastaGiris.resources
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmHastaKayit.resources
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmRandevuListe.resources
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmSekreterDetay.resources
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmSekreterGiris.resources
+D:\MyDoc\Visual Studio Projeler\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.csproj.CopyComplete
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\HastaneApp.exe
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\HastaneApp.deps.json
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\HastaneApp.runtimeconfig.json
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\HastaneApp.dll
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\HastaneApp.pdb
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.csproj.AssemblyReference.cache
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmBilgiDuzenle.resources
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmBrans.resources
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmDoktorBilgiDuzenle.resources
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmDoktorDetay.resources
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmDoktorGiris.resources
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmDoktorPaneli.resources
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmDuyurular.resources
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmGirisler.resources
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmHastaDetay.resources
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmHastaGiris.resources
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmHastaKayit.resources
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmRandevuListe.resources
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmSekreterDetay.resources
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmSekreterGiris.resources
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.Properties.Resources.resources
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.csproj.GenerateResource.cache
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.AssemblyInfoInputs.cache
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.AssemblyInfo.cs
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.csproj.CoreCompileInputs.cache
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.csproj.CopyComplete
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.dll
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\refint\HastaneApp.dll
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.pdb
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.genruntimeconfig.cache
+D:\MyDoc\Visual Studio Projeler\Yedek 6.06.2022 saat 11.56\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\ref\HastaneApp.dll
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\HastaneApp.exe
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\HastaneApp.deps.json
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\HastaneApp.runtimeconfig.json
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\HastaneApp.dll
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\HastaneApp.pdb
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.csproj.AssemblyReference.cache
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmBilgiDuzenle.resources
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmBrans.resources
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmDoktorBilgiDuzenle.resources
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmDoktorDetay.resources
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmDoktorGiris.resources
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmDoktorPaneli.resources
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmDuyurular.resources
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmGirisler.resources
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmHastaDetay.resources
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmHastaGiris.resources
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmHastaKayit.resources
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmRandevuListe.resources
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmSekreterDetay.resources
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmSekreterGiris.resources
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.Properties.Resources.resources
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.csproj.GenerateResource.cache
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.AssemblyInfoInputs.cache
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.AssemblyInfo.cs
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.csproj.CoreCompileInputs.cache
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.csproj.CopyComplete
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.dll
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\refint\HastaneApp.dll
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.pdb
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.genruntimeconfig.cache
+D:\MyDoc\Visual Studio Projeler\Kullanıyorum saat 12.10\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\ref\HastaneApp.dll
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\HastaneApp.exe
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\HastaneApp.deps.json
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\HastaneApp.runtimeconfig.json
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\HastaneApp.dll
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\HastaneApp.pdb
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmBilgiDuzenle.resources
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmBrans.resources
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmDoktorBilgiDuzenle.resources
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmDoktorDetay.resources
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmDoktorGiris.resources
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmDoktorPaneli.resources
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmDuyurular.resources
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmGirisler.resources
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmHastaDetay.resources
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmHastaGiris.resources
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmHastaKayit.resources
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmRandevuListe.resources
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmSekreterDetay.resources
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.FrmSekreterGiris.resources
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.Properties.Resources.resources
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.csproj.CopyComplete
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.dll
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\refint\HastaneApp.dll
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.pdb
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\HastaneApp.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Masaüstü\HASTANEBİTİRMEPROJESİ\HastaneApp\HastaneApp\obj\Debug\net6.0-windows\ref\HastaneApp.dll
